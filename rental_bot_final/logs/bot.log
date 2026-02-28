@@ -1,0 +1,29 @@
+2026-02-28 15:15:27.226 | INFO     | database.db:init_db:37 - ✅ PostgreSQL pool ready (min=5 max=25)
+2026-02-28 15:15:27.248 | INFO     | database.db:init_db:41 - ✅ Tables ready
+2026-02-28 15:15:27.248 | INFO     | __main__:main:31 - ✅ Database ready
+2026-02-28 15:15:46.609 | INFO     | database.db:init_db:37 - ✅ PostgreSQL pool ready (min=5 max=25)
+2026-02-28 15:15:46.613 | INFO     | database.db:init_db:41 - ✅ Tables ready
+2026-02-28 15:15:46.614 | INFO     | __main__:main:31 - ✅ Database ready
+2026-02-28 15:15:52.355 | INFO     | database.db:init_db:37 - ✅ PostgreSQL pool ready (min=5 max=25)
+2026-02-28 15:15:52.360 | INFO     | database.db:init_db:41 - ✅ Tables ready
+2026-02-28 15:15:52.360 | INFO     | __main__:main:31 - ✅ Database ready
+2026-02-28 15:15:52.554 | INFO     | __main__:main:47 - 🤖 Bot started (polling)
+2026-02-28 15:18:10.061 | INFO     | __main__:main:53 - Bot stopped.
+2026-02-28 15:18:13.264 | INFO     | database.db:init_db:37 - ✅ PostgreSQL pool ready (min=5 max=25)
+2026-02-28 15:18:13.270 | INFO     | database.db:init_db:41 - ✅ Tables ready
+2026-02-28 15:18:13.270 | INFO     | __main__:main:31 - ✅ Database ready
+2026-02-28 15:18:13.453 | INFO     | __main__:main:47 - 🤖 Bot started (polling)
+2026-02-28 15:18:52.173 | INFO     | __main__:main:53 - Bot stopped.
+2026-02-28 15:18:56.007 | INFO     | database.db:init_db:37 - ✅ PostgreSQL pool ready (min=5 max=25)
+2026-02-28 15:18:56.010 | INFO     | database.db:init_db:41 - ✅ Tables ready
+2026-02-28 15:18:56.011 | INFO     | __main__:main:31 - ✅ Database ready
+2026-02-28 15:18:56.201 | INFO     | __main__:main:47 - 🤖 Bot started (polling)
+2026-02-28 15:21:28.910 | INFO     | database.db:init_db:37 - ✅ PostgreSQL pool ready (min=5 max=25)
+2026-02-28 15:21:28.915 | INFO     | database.db:init_db:41 - ✅ Tables ready
+2026-02-28 15:21:28.916 | INFO     | __main__:main:31 - ✅ Database ready
+2026-02-28 15:21:29.105 | INFO     | __main__:main:47 - 🤖 Bot started (polling)
+2026-02-28 15:23:20.410 | INFO     | __main__:main:53 - Bot stopped.
+2026-02-28 15:23:23.959 | INFO     | database.db:init_db:37 - ✅ PostgreSQL pool ready (min=5 max=25)
+2026-02-28 15:23:23.965 | INFO     | database.db:init_db:41 - ✅ Tables ready
+2026-02-28 15:23:23.965 | INFO     | __main__:main:31 - ✅ Database ready
+2026-02-28 15:23:24.152 | INFO     | __main__:main:47 - 🤖 Bot started (polling)
